@@ -1,0 +1,13 @@
+# Created by Octave 3.6.4, Wed Sep 16 19:50:46 2015 BST <boris@dhcp-172-17-160-155.eduroam.wireless.private.cam.ac.uk>
+# name: a
+# type: matrix
+# rows: 6
+# columns: 2
+ -0.71548 -0.40653
+ 0.28452 -0.40653
+ 1.28452 -0.40653
+ -0.21548 0.4595
+ 0.78452 0.4595
+ -0.2725437956904536 -1.401381003372792
+
+
