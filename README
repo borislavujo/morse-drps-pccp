@@ -1,10 +1,12 @@
 source code for DRPS calculations in
-Dynamical properties of two- and three-dimensional colloidal clusters
-by B. Fačkovec and J. W. R. Morgan and D. J. Wale
+Dynamical properties of two- and three-dimensional colloidal clusters of six particles
+by B. Fačkovec and J. W. R. Morgan and D. J. Wales
 
-published in ...
+published in PCCP
 
-files:
-
-langevin.m ... Langevin integrator used for MD propagation
-wcell.m ... cell identification for 2D clusters
+DRPS ... script for processing times of sampled trajectories
+KMC ... scripts for kinetic Monte Carlo simulation on a rate matrix
+MD ... code for Langevin propagation of Morse structures
+PTMC ... parallel tempering Monte Carlo files
+TST ... files for PATHSAMPLE with instructions for execution
+structures ... starting structures used for the simulations
