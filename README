@@ -9,4 +9,4 @@ KMC ... scripts for kinetic Monte Carlo simulation on a rate matrix
 MD ... code for Langevin propagation of Morse structures
 PTMC ... parallel tempering Monte Carlo files
 TST ... files for PATHSAMPLE with instructions for execution
-structures ... starting structures used for the simulations
+structures ... assigment of structures to cells in configuration space
