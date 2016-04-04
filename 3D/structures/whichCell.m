@@ -3,8 +3,8 @@ function [cellInd, ratio] = whichCell(X,vfp1,vfp2,vr,nBonds)
 % first it minimises the structure using OPTIM
 % then it calculates the overlap of structural fingeprpints
 % only longest 3 bonds are used
-if (nargin<2) vfp1 = load('FP'); endif
-if (nargin<3) vfp2 = load('otherFP'); endif
+if (nargin<2) vfp1 = load('vfp1'); endif
+if (nargin<3) vfp2 = load('vfp2'); endif
 if (nargin<4) vr = linspace(0.9,1.9,100); endif
 if (nargin<5) nBonds = 3; endif
 [n,k] = size(X);
