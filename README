@@ -2,7 +2,7 @@ source code for DRPS calculations in
 Dynamical properties of two- and three-dimensional colloidal clusters of six particles
 by B. Fačkovec and J. W. R. Morgan and D. J. Wales
 
-published in PCCP
+published in PCCP, doi:10.1039/c6cp00677a
 
 DRPS ... script for processing times of sampled trajectories
 KMC ... scripts for kinetic Monte Carlo simulation on a rate matrix
